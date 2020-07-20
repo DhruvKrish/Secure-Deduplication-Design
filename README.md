@@ -2,8 +2,6 @@
 
 This is a functional implementation, which aims to tackle the secure dedup problem.
 
-####README#####
-
 NOTE: This build can be used to produce containers for both the client and gateway.
 
 To build the image:
